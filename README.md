@@ -5,6 +5,7 @@ I am an aspiring Software Engineer passionate about web development and problem 
 
 # Technical Skills
 * Python
+* Java
 * SQL
 * HTML5
 * CSS3
