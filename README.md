@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi,I am Ankita V Ghadi
 
-<!--
-**77ankita/77ankita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
+I am an aspiring Software Engineer passionate about web development and problem solving.I enjoy building responsive and user-friendly applications while continuously learning new technologies and improving my technical abilities. I am eager to contribute my skills, creativity, and dedication to real-world software development projects.
 
-Here are some ideas to get you started:
+# Technical Skills
+* Python
+* SQL
+* HTML5
+* CSS3
+* JavaScript
+* ReactJS
+* Data structures and algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+* Smart Traffic Management System Using Machine Learning
+* Human Disease Prediction System
+* Expense Tracker App
+  
+# Connect with me
+LinkedIn: https://www.linkedin.com/in/ankitaghadi
+Email: ankitaghadi221@gmail.com
